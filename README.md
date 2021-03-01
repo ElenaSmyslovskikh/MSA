@@ -1,6 +1,8 @@
 # MSA
 Multi-dimensional statistical analysis course (fall 2020)
+
 LSDV, FE-models, RE-models, mixed-effect models. Working with hierarchical data in statistics.
+
 Instructor: Daria Salnikova, HSE
 
 Overall grade for the course: 8/10
